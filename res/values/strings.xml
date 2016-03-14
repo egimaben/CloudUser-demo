@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CloudUser Demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sign_up"><u>Sign up</u></string>
+    <string name="reset_password"><u>Forgot password?</u></string>
+    <string name="login"><u>Login</u></string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_change_password">Change Password</string>
+    <string name="action_logout">Logout</string>
+
+</resources>
